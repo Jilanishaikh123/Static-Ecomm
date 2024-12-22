@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(235, 235, 235);
+}
+
+#product_row {
+  margin-top: 1rem;
+  text-align: center;
+  /* background-color: aqua; */
+}
+
+#product_col {
+  margin: 0;
+  padding: 0;
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: center;
+  text-align: start;
+}
+
+.category_heading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2rem;
+}
+
+.img_container {
+  width: 18rem;
+  height: 14rem;
+  /* background-color: red; */
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.product_img {
+  max-height: 13rem;
+  max-width: 17rem;
+}
+
+#card_txt {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
