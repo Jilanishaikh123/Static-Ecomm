@@ -24,6 +24,30 @@ let products = {
       p_image:
         "https://images.samsung.com/is/image/samsung/levant-feature-an-easy-grip-design-in-an-array-of-stylish-colors-243829377?$FB_TYPE_A_MO_JPG$",
     },
+    {
+      name: "Inspiron 15",
+      price: 50000,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image:
+        "https://images-cdn.ubuy.co.in/633aae8db52ac20d0b37956e-dell-inspiron-15-3000-laptop-2021.jpg",
+    },
+    {
+      name: "Iphone",
+      price: 150000,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image:
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/iphone-15-20251631-16x9_1.jpg?VersionId=5P_5gitDRCipZj0rMeEp2lIe85qeVBYK&size=690:388",
+    },
+    {
+      name: "M11+",
+      price: 13999,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image:
+        "https://images.samsung.com/is/image/samsung/levant-feature-an-easy-grip-design-in-an-array-of-stylish-colors-243829377?$FB_TYPE_A_MO_JPG$",
+    },
   ],
   Clothes: [
     {
@@ -49,8 +73,54 @@ let products = {
       p_image:
         "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014063959_437Wx649H_202208061730351.jpeg",
     },
+    {
+      name: "MANIAC",
+      price: 1182,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image: "https://m.media-amazon.com/images/I/71Y8GOgzviL._SY741_.jpg",
+    },
+    {
+      name: "EYEBOGLER",
+      price: 299,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image:
+        "https://m.media-amazon.com/images/I/51kLcnRqvWL._AC_UY1100_.jpg",
+    },
+    {
+      name: "Jompers",
+      price: 935,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image:
+        "https://img.tatacliq.com/images/i8/437Wx649H/MP000000014063959_437Wx649H_202208061730351.jpeg",
+    },
   ],
   Footwear: [
+    {
+      name: "Slipper",
+      price: 200,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image: "https://m.media-amazon.com/images/I/61THqestSWL._SY625_.jpg",
+    },
+    {
+      name: "Sandals",
+      price: 500,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image:
+        "https://www.tracerindia.com/cdn/shop/files/05_52434a10-7518-434a-839c-607e5c7c4030.jpg?v=1688464798&width=823",
+    },
+    {
+      name: "Shoes",
+      price: 2000,
+      description:
+        "lksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksancolksamcoksanco",
+      p_image:
+        "https://m.media-amazon.com/images/I/41PuKqHnDqL._AC_UY1000_.jpg",
+    },
     {
       name: "Slipper",
       price: 200,
